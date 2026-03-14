@@ -1,4 +1,4 @@
-# Online Fashion Purchase Behavior Analysis
+# online-fashion-purchase-analysis
 
 ## Business Problem
 Online fashion platforms face increasing competition, making it important to understand the factors that influence consumers’ purchasing decisions. This project analyzes consumer behavior to identify key marketing factors that affect online fashion purchase decisions and provide insights for improving marketing strategies.
