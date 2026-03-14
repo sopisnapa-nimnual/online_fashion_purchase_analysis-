@@ -1,0 +1,2 @@
+# Factors-that-affect-the-decision-to-buy-fashion-products-on-the-online-platform
+This project analyzes factors influencing online fashion purchase decisions on digital platforms. Using survey data, the study applies K-means clustering, Random Forest, and Ordinal Logistic Regression to identify customer behavior patterns and key drivers of purchasing decisions, generating insights to support data-driven marketing strategies.
